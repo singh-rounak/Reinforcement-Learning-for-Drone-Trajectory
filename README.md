@@ -1,6 +1,7 @@
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/eba0e4fa-84bf-41e9-9df1-e0ea18011940" /># Autonomous Drone Trajectory prediction using Reinforcement Learning
+# Autonomous Drone Trajectory prediction using Reinforcement Learning
 ![image alt](https://github.com/singh-rounak/Reinforcement-Learning-for-Drone-Trajectory/blob/develop/RE%20images/image1.png?raw=true)
-## Project Overview
+
+# Project Overview
 
 Autonomous drones are increasingly used in areas such as:
 
@@ -73,10 +74,10 @@ Applications of the Approach
 
 Reinforcement learning based trajectory planning is widely used in:
 
-• autonomous drones
-• robotic navigation
-• delivery drone systems
-• UAV surveillance missions
-• disaster monitoring
+1. Autonomous drones
+2. Robotic navigation
+3. Delivery drone systems
+4. UAV surveillance missions
+5. Disaster monitoring
 
 Modern research increasingly applies reinforcement learning to UAV navigation because it allows agents to learn optimal policies directly through environment interaction.
