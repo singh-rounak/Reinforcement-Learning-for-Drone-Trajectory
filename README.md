@@ -31,7 +31,7 @@ Design an intelligent drone agent that:
 * Avoids inefficient movements
 * Improves trajectory performance through training episodes
   
-![image alt](https://github.com/singh-rounak/Reinforcement-Learning-for-Drone-Trajectory/blob/develop/RE%20images/image3.png?raw=true)
+![image alt](https://github.com/singh-rounak/Reinforcement-Learning-for-Drone-Trajectory/blob/develop/RE%20images/image3.png?raw=true | width=100)
 
 ## Learning Process
 
