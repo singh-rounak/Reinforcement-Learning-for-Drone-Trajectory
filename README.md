@@ -1,6 +1,7 @@
-# Reinforcement Learning for Autonomous Drone Trajectory
+# Autonomous Drone Trajectory prediction using Reinforcement Learning
+![image alt](https://github.com/singh-rounak/Reinforcement-Learning-for-Drone-Trajectory/blob/develop/RE%20images/image1.png?raw=true)
 
-## Project Overview
+# Project Overview
 
 Autonomous drones are increasingly used in areas such as:
 
@@ -29,6 +30,8 @@ Design an intelligent drone agent that:
 * Learns the shortest path to the destination
 * Avoids inefficient movements
 * Improves trajectory performance through training episodes
+  
+![image alt](https://github.com/singh-rounak/Reinforcement-Learning-for-Drone-Trajectory/blob/develop/RE%20images/image3.png?raw=true)
 
 ## Learning Process
 
@@ -46,7 +49,10 @@ The drone follows a training cycle:
 
 6. Repeat across many episodes
 
-Through this process the agent gradually converges to an optimal trajectory policy.
+
+## Through this process the agent gradually converges to an optimal trajectory policy.
+
+![image alt](https://github.com/singh-rounak/Reinforcement-Learning-for-Drone-Trajectory/blob/develop/RE%20images/image4.png?raw=true)
 
 ## WORKFLOW
 
@@ -64,12 +70,29 @@ Optimal Path Discovery
 
 Applications of the Approach
 
+![image alt](https://github.com/singh-rounak/Reinforcement-Learning-for-Drone-Trajectory/blob/develop/RE%20images/image2.png?raw=true)
+
 Reinforcement learning based trajectory planning is widely used in:
 
-• autonomous drones
-• robotic navigation
-• delivery drone systems
-• UAV surveillance missions
-• disaster monitoring
+1. Autonomous drones
+2. Robotic navigation
+3. Delivery drone systems
+4. UAV surveillance missions
+5. Disaster monitoring
 
 Modern research increasingly applies reinforcement learning to UAV navigation because it allows agents to learn optimal policies directly through environment interaction.
+
+# RESULTS:
+
+### 1. When Drone starts at Initial Random State (S0):
+![image alt](https://github.com/singh-rounak/Reinforcement-Learning-for-Drone-Trajectory/blob/develop/RE%20images/S0.png?raw=true)
+
+### 2. When Drone starts at Secure Area (S1):
+![image alt](https://github.com/singh-rounak/Reinforcement-Learning-for-Drone-Trajectory/blob/develop/RE%20images/S1.png?raw=true)
+
+### 1. When Drone starts at Precarious State (S2):
+![image alt](https://github.com/singh-rounak/Reinforcement-Learning-for-Drone-Trajectory/blob/develop/RE%20images/S2.png?raw=true)
+
+### 1. Rewards during trajectory Learning:
+![image alt](https://github.com/singh-rounak/Reinforcement-Learning-for-Drone-Trajectory/blob/develop/RE%20images/Rewards.png?raw=true)
+
