@@ -1,5 +1,5 @@
-# Reinforcement Learning for Autonomous Drone Trajectory
-
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/eba0e4fa-84bf-41e9-9df1-e0ea18011940" /># Autonomous Drone Trajectory prediction using Reinforcement Learning
+![image alt](https://github.com/singh-rounak/Reinforcement-Learning-for-Drone-Trajectory/blob/develop/RE%20images/image1.png?raw=true)
 ## Project Overview
 
 Autonomous drones are increasingly used in areas such as:
@@ -29,6 +29,8 @@ Design an intelligent drone agent that:
 * Learns the shortest path to the destination
 * Avoids inefficient movements
 * Improves trajectory performance through training episodes
+  
+![image alt](https://github.com/singh-rounak/Reinforcement-Learning-for-Drone-Trajectory/blob/develop/RE%20images/image3.png?raw=true)
 
 ## Learning Process
 
@@ -46,7 +48,10 @@ The drone follows a training cycle:
 
 6. Repeat across many episodes
 
-Through this process the agent gradually converges to an optimal trajectory policy.
+
+## Through this process the agent gradually converges to an optimal trajectory policy.
+
+![image alt](https://github.com/singh-rounak/Reinforcement-Learning-for-Drone-Trajectory/blob/develop/RE%20images/image4.png?raw=true)
 
 ## WORKFLOW
 
@@ -63,6 +68,8 @@ Trajectory Learning
 Optimal Path Discovery
 
 Applications of the Approach
+
+![image alt](https://github.com/singh-rounak/Reinforcement-Learning-for-Drone-Trajectory/blob/develop/RE%20images/image2.png?raw=true)
 
 Reinforcement learning based trajectory planning is widely used in:
 
