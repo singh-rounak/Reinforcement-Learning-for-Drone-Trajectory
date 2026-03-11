@@ -81,3 +81,18 @@ Reinforcement learning based trajectory planning is widely used in:
 5. Disaster monitoring
 
 Modern research increasingly applies reinforcement learning to UAV navigation because it allows agents to learn optimal policies directly through environment interaction.
+
+# RESULTS:
+
+### 1. When Drone starts at Initial Random State (S0):
+![image alt](https://github.com/singh-rounak/Reinforcement-Learning-for-Drone-Trajectory/blob/develop/RE%20images/S0.png?raw=true)
+
+### 2. When Drone starts at Secure Area (S1):
+![image alt](https://github.com/singh-rounak/Reinforcement-Learning-for-Drone-Trajectory/blob/develop/RE%20images/S1.png?raw=true)
+
+### 1. When Drone starts at Precarious State (S2):
+![image alt](https://github.com/singh-rounak/Reinforcement-Learning-for-Drone-Trajectory/blob/develop/RE%20images/S2.png?raw=true)
+
+### 1. Rewards during trajectory Learning:
+![image alt](https://github.com/singh-rounak/Reinforcement-Learning-for-Drone-Trajectory/blob/develop/RE%20images/Rewards.png?raw=true)
+
